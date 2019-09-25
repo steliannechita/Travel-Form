@@ -1,4 +1,4 @@
-Travel-form created using React.
+Travel-form created using React JS - forms & form validation practice with React
 
 ## Technologies used
 
